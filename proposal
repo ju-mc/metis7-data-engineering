@@ -6,3 +6,6 @@ Data: I will scrape data from Opensea.io using their API. The data will include 
 MVP: 
 The MVP will include an established mongo database with the data mentioned above, and at least some visualizations describing the state
 of the NFT marketplace within Opensea 
+
+EDIT: goal: to analyze the NFT market via twitter
+Data: scrape data from twitter using twint
